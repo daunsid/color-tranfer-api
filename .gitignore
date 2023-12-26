@@ -1,0 +1,5 @@
+wvenv
+model
+data
+*__pycache__
+test
